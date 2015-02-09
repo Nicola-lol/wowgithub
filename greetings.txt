@@ -1,4 +1,4 @@
-Hi everybody!
+Hi everybody! :) :)
 
 This document exists for you to clone and change.
 
@@ -19,3 +19,5 @@ Burritos
 BAD FOODS
 
 Brussels sprouts
+
+Anything that isnt burritos
